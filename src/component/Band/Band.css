@@ -1,0 +1,10 @@
+.band-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #e7e7e7 ;
+    padding:5px 15px;
+    gap:9px;
+    border-radius: 5px;
+    
+}

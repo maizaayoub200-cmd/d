@@ -52,3 +52,11 @@
     border: none;
     font-weight: 500;
 }
+@media screen and (max-width:1080px){
+    .nav-bottom ul{
+        display: none;
+    }
+    .nav-top{
+        display:none;
+    }
+}
